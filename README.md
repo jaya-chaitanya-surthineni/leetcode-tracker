@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0050-powx-n) |
+| [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
