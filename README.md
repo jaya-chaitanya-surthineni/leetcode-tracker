@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
