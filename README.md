@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
+| [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
