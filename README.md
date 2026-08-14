@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0069-sqrtx) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
