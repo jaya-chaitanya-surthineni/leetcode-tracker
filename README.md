@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
