@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3718-smallest-missing-multiple-of-k) |
