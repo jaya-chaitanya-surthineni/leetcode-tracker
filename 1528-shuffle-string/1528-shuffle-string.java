@@ -3,11 +3,11 @@ class Solution {
         int n=s.length();
         char arr[]= new char[n];
         for(int i=0;i<n;i++){
-            char c=s.charAt(i);
-            arr[indices[i]]=c;
+            arr[indices[i]]=s.charAt(i);
         }
-        StringBuilder sb = new StringBuilder();
-        for(char c:arr)sb.append(c);
-        return sb.toString();
+        // StringBuilder sb = new StringBuilder();
+        //  for(char c:arr)sb.append(c);
+        // return sb.toString();
+        return new String(arr);
     }
 }
