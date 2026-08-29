@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0941-valid-mountain-array) |
 | [1528-shuffle-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0540-single-element-in-a-sorted-array) |
+| [1539-kth-missing-positive-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
