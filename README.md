@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0941-valid-mountain-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1528-shuffle-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
