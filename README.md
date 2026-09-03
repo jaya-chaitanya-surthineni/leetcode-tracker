@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
