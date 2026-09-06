@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
