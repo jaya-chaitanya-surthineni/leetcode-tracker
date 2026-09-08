@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
