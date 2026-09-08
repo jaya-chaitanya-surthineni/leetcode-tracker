@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0164-maximum-gap](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0540-single-element-in-a-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0164-maximum-gap) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
@@ -170,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0075-sort-colors) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
