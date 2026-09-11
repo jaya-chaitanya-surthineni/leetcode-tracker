@@ -41,3 +41,22 @@ class Solution {
         return max;
     }
 }
+// class Solution {
+//     public int lengthOfLongestSubstring(String s) {
+//         return find(s, 0);
+//     }
+
+//     static int find(String s, int start) {
+//         if (start == s.length()) {
+//             return 0;
+//         }
+
+//         String current = "";
+//         int i = start;
+
+//         while (i < s.length() && current.indexOf(s.charAt(i)) == -1) {
+//             current += s.charAt(i);
+//             i++;
+//         }
+
+//         return Math.max(current.length(), find(s, start + 1));
