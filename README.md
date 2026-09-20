@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0540-single-element-in-a-sorted-array) |
+| [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
