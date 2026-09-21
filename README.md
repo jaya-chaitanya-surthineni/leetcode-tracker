@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3884-first-matching-character-from-both-ends) |
 ## Backtracking
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
+| [3498-reverse-degree-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
