@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
+| [2652-sum-multiples](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
