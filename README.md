@@ -223,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
