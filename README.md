@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
+| [0829-consecutive-numbers-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0829-consecutive-numbers-sum) |
 | [1688-count-of-matches-in-tournament](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2652-sum-multiples) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0707-design-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
