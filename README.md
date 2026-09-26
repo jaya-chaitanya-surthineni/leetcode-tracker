@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [1189-maximum-number-of-balloons](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1189-maximum-number-of-balloons) |
 | [1528-shuffle-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1528-shuffle-string) |
@@ -245,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0829-consecutive-numbers-sum) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
