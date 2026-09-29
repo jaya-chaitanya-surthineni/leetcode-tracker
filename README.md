@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0006-zigzag-conversion) |
 | [0065-valid-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0709-to-lower-case) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization
 |  |
