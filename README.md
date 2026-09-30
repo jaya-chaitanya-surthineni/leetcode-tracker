@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1539-kth-missing-positive-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
