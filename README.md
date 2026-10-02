@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
 | [0065-valid-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
