@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0553-optimal-division) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0456-132-pattern) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
