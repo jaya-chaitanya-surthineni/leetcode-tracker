@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2073-time-needed-to-buy-tickets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
