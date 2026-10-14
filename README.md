@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
+| [0929-unique-email-addresses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0929-unique-email-addresses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1189-maximum-number-of-balloons) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
+| [0929-unique-email-addresses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0929-unique-email-addresses) |
 | [1189-maximum-number-of-balloons](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
