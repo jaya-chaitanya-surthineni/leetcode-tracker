@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1572-matrix-diagonal-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1732-find-the-highest-altitude](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2073-time-needed-to-buy-tickets) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1732-find-the-highest-altitude) |
 ## Recursion
 |  |
 | ------- |
