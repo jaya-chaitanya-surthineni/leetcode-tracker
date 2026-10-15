@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2073-time-needed-to-buy-tickets) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3151-special-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3151-special-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -359,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0301-remove-invalid-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
