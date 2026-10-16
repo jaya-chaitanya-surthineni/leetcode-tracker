@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0074-search-a-2d-matrix) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0509-fibonacci-number) |
