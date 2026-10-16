@@ -15,7 +15,7 @@ class Solution {
                 currEnd = maxReach;
 
                 // If this range already covers last index, stop.
-                if (currEnd >= n - 1) break;
+                // if (currEnd >= n - 1) break;
             }
         }
 
