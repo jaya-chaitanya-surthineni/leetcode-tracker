@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
+| [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0829-consecutive-numbers-sum](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0829-consecutive-numbers-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
 | ------- |
