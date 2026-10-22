@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3925-concatenate-array-with-reverse) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
