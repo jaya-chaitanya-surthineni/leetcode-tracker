@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3794-reverse-string-prefix) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3884-first-matching-character-from-both-ends) |
 ## Backtracking
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3794-reverse-string-prefix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3884-first-matching-character-from-both-ends) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
