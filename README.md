@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 | [3925-concatenate-array-with-reverse](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3884-first-matching-character-from-both-ends) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Dynamic Programming
 |  |
 | ------- |
