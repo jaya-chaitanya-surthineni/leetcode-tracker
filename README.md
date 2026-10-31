@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2073-time-needed-to-buy-tickets) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3794-reverse-string-prefix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3794-reverse-string-prefix) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3886-sum-of-sortable-integers](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
