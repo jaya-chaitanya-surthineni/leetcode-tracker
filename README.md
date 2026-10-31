@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2073-time-needed-to-buy-tickets) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0905-sort-array-by-parity) |
 | [0942-di-string-match](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3794-reverse-string-prefix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3794-reverse-string-prefix) |
