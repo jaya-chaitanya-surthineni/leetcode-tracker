@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2073-time-needed-to-buy-tickets) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3794-reverse-string-prefix](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3794-reverse-string-prefix) |
 | [3884-first-matching-character-from-both-ends](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3884-first-matching-character-from-both-ends) |
