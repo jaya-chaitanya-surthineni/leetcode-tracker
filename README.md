@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2645-minimum-additions-to-make-valid-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jaya-chaitanya-surthineni/leetcode-tracker/tree/master/3348-smallest-divisible-digit-product-ii) |
